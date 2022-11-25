@@ -1,5 +1,6 @@
 # note_extraction
-<img width="1440" alt="Schermata 2022-11-23 alle 11 54 27" src="https://user-images.githubusercontent.com/91341004/204041438-e235ec3f-980b-49aa-b7ed-5861148414d0.png">
+<img width="481" alt="Schermata 2022-11-25 alle 19 46 19" src="https://user-images.githubusercontent.com/91341004/204041468-7116553c-1e45-40f8-b95d-4454fa147679.png">
+
 
 In this project we use basic tachniques in the field of signal processing (e.g. audio filtering and FFT) to transform an audio track into playable sheet music. The tools in this repository work particularly well for simple audio files (where there is a single instrument playing with constant tempo and fairly differentiated notes). It is also worth noting that depending on the value of some parameters (e.g. downsapling parameters or sempling frequency) the extracted notes frome the audio file can be at different frequency (e.g. in the sample song in the `fur_elise` folder the resulting notes listed in `extracted_notes.txt` are half a tone below the original). Since the techniques used are based primarely on frequency analysis these differences between original audio file and extracted notes are to be expected.
 
