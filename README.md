@@ -7,6 +7,3 @@ In this project we use basic tachniques in the field of signal processing (e.g. 
 ### What's in here?
 - Two folders `fur_elise` and `fra_martino` 
 - Each folder contains the original audio tracks, matlab scripts needed to execute the tasks `furElise_script.m` and `framartino_script.m`, some auxiliary functions and the extracted notes in a txt file togheter with a matlab presentation in mlx format
-
-### Disclamair 
-This project was part of a course of Signal Processing for Big Data at Sapienza University of Rome held by Prof. S. Barbarossa and Prof P. Di Lorenzo. 
